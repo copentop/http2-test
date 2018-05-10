@@ -1,0 +1,19 @@
+2018/05/09 12:07:53 [emerg] 17#17: unexpected end of file, expecting ";" or "}" in /usr/local/nginx/conf/nginx.conf:41
+2018/05/09 12:08:33 [emerg] 18#18: unexpected end of file, expecting ";" or "}" in /usr/local/nginx/conf/nginx.conf:41
+2018/05/09 12:11:34 [notice] 26#26: signal process started
+2018/05/09 12:11:34 [error] 26#26: open() "/usr/local/nginx/logs/nginx.pid" failed (2: No such file or directory)
+2018/05/09 12:12:42 [emerg] 27#27: unexpected end of file, expecting ";" or "}" in /usr/local/nginx/conf/nginx.conf:35
+2018/05/09 12:13:16 [notice] 29#29: signal process started
+2018/05/09 12:13:16 [error] 29#29: open() "/usr/local/nginx/logs/nginx.pid" failed (2: No such file or directory)
+2018/05/09 12:13:39 [notice] 31#31: signal process started
+2018/05/09 12:14:17 [notice] 34#34: signal process started
+2018/05/09 12:20:36 [notice] 37#37: signal process started
+2018/05/09 12:24:41 [emerg] 49#49: unknown directive "listeners" in /usr/local/nginx/nginx_vhosts/h1.com.conf:2
+2018/05/09 12:25:03 [notice] 50#50: signal process started
+2018/05/09 12:25:47 [notice] 52#52: signal process started
+2018/05/09 12:26:10 [notice] 54#54: signal process started
+2018/05/09 12:31:09 [notice] 56#56: signal process started
+2018/05/09 12:34:27 [notice] 58#58: signal process started
+2018/05/10 02:29:43 [notice] 21#21: signal process started
+2018/05/10 02:43:41 [notice] 23#23: signal process started
+2018/05/10 09:49:34 [notice] 33#33: signal process started

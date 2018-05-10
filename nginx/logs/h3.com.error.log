@@ -1,0 +1,3 @@
+2018/05/10 02:57:02 [crit] 24#24: *62 open() "/var/www/h3.com/images/60.jpg" failed (116: Stale NFS file handle), client: 172.17.0.1, server: h3.com, request: "GET /images/60.jpg HTTP/1.1", host: "h3.com:9080", referrer: "http://h3.com:9080/"
+2018/05/10 02:57:23 [crit] 24#24: *59 open() "/var/www/h3.com/images/55.jpg" failed (22: Invalid argument), client: 172.17.0.1, server: h3.com, request: "GET /images/55.jpg HTTP/1.1", host: "h3.com:9080", referrer: "http://h3.com:9080/"
+2018/05/10 02:58:20 [crit] 24#24: *65 open() "/var/www/h3.com/images/55.jpg" failed (22: Invalid argument), client: 172.17.0.1, server: h3.com, request: "GET /images/55.jpg HTTP/1.1", host: "h3.com:9080", referrer: "http://h3.com:9080/"
